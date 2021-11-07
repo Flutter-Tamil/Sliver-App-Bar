@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![](sliver-app-bar.gif)
+
 https://github.com/Flutter-Tamil/Sliver-App-Bar/blob/main/sliver-app-bar.gif
 
 ## Getting Started
