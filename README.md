@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+https://github.com/Flutter-Tamil/Sliver-App-Bar/blob/main/sliver-app-bar.gif
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
